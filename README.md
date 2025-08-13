@@ -43,9 +43,13 @@ Perfect for learning **socket programming**, **multi-threading**, and **Java net
 **Learning Goals**
 
 This project demonstrates:
+
 Basics of TCP socket programming in Java.
+
 Use of Java NIO for non-blocking I/O.
+
 Handling multiple clients using threads.
+
 Building a simple GUI-based application with Swing.
 
 
